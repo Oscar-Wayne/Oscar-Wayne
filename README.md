@@ -88,13 +88,7 @@
 
 <img src="https://raw.githubusercontent.com/Oscar-Wayne/Oscar-Wayne/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
 
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
