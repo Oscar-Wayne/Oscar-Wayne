@@ -153,5 +153,5 @@ Desarrollador apasionado por la tecnología, actualmente liderando el área de s
 ---
 
 <p align="center">
-  <i>💡 "El código es poesía, la arquitectura es arte, y liderar equipos es mi pasión"</i>
+  <i></i>
 </p>
